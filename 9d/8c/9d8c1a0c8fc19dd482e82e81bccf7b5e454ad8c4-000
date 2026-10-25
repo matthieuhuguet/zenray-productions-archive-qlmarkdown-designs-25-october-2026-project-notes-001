@@ -555,3 +555,57 @@
 > Formulation plus courte de votre demande : « Active QLMarkdown B à 18 px, et fais-en le thème par défaut des nouveaux articles zenray-edit et Assets, sans toucher aux existants. » (25 October 2026, 15:04:08 +0100)
 >
 > Page des propositions : [/Users/zenray/.claude/tmp/tmp-qlmarkdown-designs-25-october-2026/index.html](/Users/zenray/.claude/tmp/tmp-qlmarkdown-designs-25-october-2026/index.html) (25 October 2026, 15:04:08 +0100)
+
+## 25 October 2026, 15:25:33 +0100 : Prompt
+
+<!-- feedback-event:cea3098c5b2e15893fe84f7369a0511c6295d5a0675631e7a53cc680fe22a4d3 (25 October 2026, 15:25:33 +0100) -->
+- Project: qlmarkdown-designs-25-october-2026; kind: prompt. (25 October 2026, 15:25:33 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3.jsonl. (25 October 2026, 15:25:33 +0100)
+
+> c'est toujours l'ancien theme via quicklook sur mac ? (25 October 2026, 15:25:33 +0100)
+
+## 25 October 2026, 15:25:33 +0100 : Prompt
+
+<!-- feedback-event:b88c5dec9171f60e06048e58a8124eacac995ce21c4c5e65895d5a97c3717c24 (25 October 2026, 15:25:33 +0100) -->
+- Project: qlmarkdown-designs-25-october-2026; kind: prompt. (25 October 2026, 15:25:33 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3.jsonl. (25 October 2026, 15:25:33 +0100)
+
+> [Image: source: /private/tmp/claude-501/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3/images/1.webp] (25 October 2026, 15:25:33 +0100)
+
+## 25 October 2026, 15:25:35 +0100 : Prompt
+
+<!-- feedback-event:5816e5dfec52e4bb1eb2ca5255d74a63057205a8db715861c1031a486f8b37bb (25 October 2026, 15:25:35 +0100) -->
+- Project: qlmarkdown-designs-25-october-2026; kind: prompt. (25 October 2026, 15:25:35 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3.jsonl. (25 October 2026, 15:25:35 +0100)
+
+> c'est toujours l'ancien theme via quicklook sur mac ? (25 October 2026, 15:25:35 +0100)
+>
+> [Image: source: /private/tmp/claude-501/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3/images/1.webp] (25 October 2026, 15:25:35 +0100)
+
+## 25 October 2026, 15:25:41 +0100 : Iteration
+
+<!-- feedback-event:6e8199636f382fd44169b9443dded875baabf8996bd1b28dc2942b24d2fdb816 (25 October 2026, 15:25:41 +0100) -->
+- Project: qlmarkdown-designs-25-october-2026; kind: iteration. (25 October 2026, 15:25:41 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3.jsonl. (25 October 2026, 15:25:41 +0100)
+
+> Oui, c'est encore l'ancien thème : titre corail en police sans empattement, c'est `Claude2.css`. Je vérifie ce que l'extension lit réellement. (25 October 2026, 15:25:41 +0100)
+
+## 25 October 2026, 15:25:47 +0100 : Iteration
+
+<!-- feedback-event:5de4604874c8b486b550d02b03bbfa7be64f8ecdae8e96253f51ed44b8ed1596 (25 October 2026, 15:25:47 +0100) -->
+- Project: qlmarkdown-designs-25-october-2026; kind: iteration. (25 October 2026, 15:25:47 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3.jsonl. (25 October 2026, 15:25:47 +0100)
+
+> Le réglage est bon sur le disque, mais l'extension tourne depuis avant le changement et a gardé l'ancien en mémoire. Je la redémarre. (25 October 2026, 15:25:47 +0100)
+
+## 25 October 2026, 15:26:06 +0100 : Iteration
+
+<!-- feedback-event:f0da3ba5f14d172725c18e8dad11bc48f14a85762b4b1c8d2eaa47594b5d7a3f (25 October 2026, 15:26:06 +0100) -->
+- Project: qlmarkdown-designs-25-october-2026; kind: iteration. (25 October 2026, 15:26:06 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3.jsonl. (25 October 2026, 15:26:06 +0100)
+
+> Oui, c'était encore l'ancien thème. Le réglage était bien enregistré sur le disque (`customCSS = ZenRay-B-Papier.css`), mais l'extension tournait depuis 14:48, avant le changement. Elle lit ses réglages au démarrage et gardait donc `Claude2.css` en mémoire. Je l'ai arrêtée et j'ai remis à zéro Quick Look. (25 October 2026, 15:26:06 +0100)
+>
+> Fermez l'aperçu, puis rouvrez-le avec Espace sur `CardinalValues1.md`. Le titre devrait être en Sectra italique noir, centré, sur fond papier. Je ne l'ai pas vu moi-même, parce que je ne pilote pas votre écran. Si vous voyez à la place un style GitHub, blanc et bleu, l'extension n'arrive pas à lire le fichier du thème : envoyez-moi une capture et je le place autrement. (25 October 2026, 15:26:06 +0100)
+>
+> Pour la suite, `BuildThemes.mjs --activate` redémarre maintenant l'extension tout seul. Le piège est noté dans `/Users/zenray/.claude/skills/zenray-edit/templates/qlmarkdown-themes/README.md`. (25 October 2026, 15:26:06 +0100)
