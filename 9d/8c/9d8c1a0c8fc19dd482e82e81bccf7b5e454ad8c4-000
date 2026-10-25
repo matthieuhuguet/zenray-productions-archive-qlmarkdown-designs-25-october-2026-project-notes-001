@@ -609,3 +609,67 @@
 > Fermez l'aperçu, puis rouvrez-le avec Espace sur `CardinalValues1.md`. Le titre devrait être en Sectra italique noir, centré, sur fond papier. Je ne l'ai pas vu moi-même, parce que je ne pilote pas votre écran. Si vous voyez à la place un style GitHub, blanc et bleu, l'extension n'arrive pas à lire le fichier du thème : envoyez-moi une capture et je le place autrement. (25 October 2026, 15:26:06 +0100)
 >
 > Pour la suite, `BuildThemes.mjs --activate` redémarre maintenant l'extension tout seul. Le piège est noté dans `/Users/zenray/.claude/skills/zenray-edit/templates/qlmarkdown-themes/README.md`. (25 October 2026, 15:26:06 +0100)
+
+## 25 October 2026, 16:34:25 +0100 : Prompt
+
+<!-- feedback-event:e1fff648d46c18d15eeda3046756f7ca15528cfb29793423d1d9a39691d4b76a (25 October 2026, 16:34:25 +0100) -->
+- Project: qlmarkdown-designs-25-october-2026; kind: prompt. (25 October 2026, 16:34:25 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3.jsonl. (25 October 2026, 16:34:25 +0100)
+
+> Je vois pas la section argent. Tu l'as mis où? Et redonne-moi aussi le texte exact que tu as écrit et append. (25 October 2026, 16:34:25 +0100)
+
+## 25 October 2026, 16:35:06 +0100 : Iteration
+
+<!-- feedback-event:80d50f1f80df96c7345aeb2dd32175055329fedb1c0c05496eaf7387cd16e16d (25 October 2026, 16:35:06 +0100) -->
+- Project: qlmarkdown-designs-25-october-2026; kind: iteration. (25 October 2026, 16:35:06 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3.jsonl. (25 October 2026, 16:35:06 +0100)
+
+> Vous regardiez le haut de `CardinalValues1.md`. J'ai ajouté la section à la fin, comme pour toutes les sections datées : elle commence à la ligne 480 sur 492. Le texte se trouve à quatre endroits. (25 October 2026, 16:35:06 +0100)
+>
+> **1. Ligne 1 de [/Users/zenray/.claude/CLAUDE.md](/Users/zenray/.claude/CLAUDE.md), insérée tout en haut :** (25 October 2026, 16:35:06 +0100)
+>
+> ```markdown (25 October 2026, 16:35:06 +0100)
+> **PRIORITÉ N°1, L'ARGENT D'ABORD (25 October 2026).** Tant que l'argent ne rentre pas, chaque choix et chaque session de Claude Code se pèsent d'abord à ce qu'ils rapprochent d'une rentrée d'argent ou d'un paiement, car c'est l'argent qui rendra ensuite la liberté du reste : son appartement, son espace, ses horaires, ses projets, ne dépendre de personne. L'ordre de la journée se renverse : prospecter d'abord, produire ensuite, être payé enfin, jamais produire seul en espérant qu'on vienne ; chaque journée de travail s'ouvre donc sur la prospection dans `zenray-calendar-plan`, cap 10 000 € de chiffre d'affaires avec Andreas, sport et œuvres maintenus. Ses mots et le détail : `rules/CardinalValues1.md`, section du 25 October 2026. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> ``` (25 October 2026, 16:35:06 +0100)
+>
+> Trois lignes du même fichier ont aussi été remplacées par des renvois : (25 October 2026, 16:35:06 +0100)
+> - ligne 74 : `- **Stratégie tech artist validée (25 October 2026)** : voir PRIORITÉ N°1 en tête ; détail rules/ZenRayProjects1.md.` ; (25 October 2026, 16:35:06 +0100)
+> - ligne 635 : un renvoi vers la section « Basculer la question en opportunité de revenu », déplacée telle quelle dans `CardinalValues1.md` ; (25 October 2026, 16:35:06 +0100)
+> - ligne 597 : un renvoi vers l'index Karpathy, déplacé tel quel dans `Toolbox1.md`. (25 October 2026, 16:35:06 +0100)
+>
+> J'ai déplacé ces deux sections pour que CLAUDE.md reste sous la limite de 65 536 octets. (25 October 2026, 16:35:06 +0100)
+>
+> **2. Fin de [/Users/zenray/.claude/rules/CardinalValues1.md](/Users/zenray/.claude/rules/CardinalValues1.md), ligne 480 :** (25 October 2026, 16:35:06 +0100)
+>
+> ```markdown (25 October 2026, 16:35:06 +0100)
+> ## 25 October 2026 : PRIORITÉ N°1, L'ARGENT D'ABORD (mots de Matthieu, grammaire seule) (25 October 2026, 16:35:06 +0100)
+>
+> - Ses mots (25 October 2026) : « Ma seule priorité pour l'instant, priorité numéro 1, c'est de faire tous les choix de manière réfléchie par rapport à l'argent. Une fois que j'aurai l'argent, j'aurai beaucoup plus de liberté dans mes choix. Il faut que tu orientes tout mon Claude Code. Le but, c'est vraiment de se concentrer sur l'argent pour débloquer ce sujet : passer de “je fais uniquement de la production” à “je fais de la prospection en premier, ensuite je fais la production et ensuite je suis payé”. Il faut renverser le château de cartes et le nombre d'actions logiques que je fais par jour pour me concentrer vraiment sur la rentrée d'argent. Une fois que j'ai de la rentrée d'argent, je peux rester moi-même, mais j'ai plus de liberté dans mes choix de tous les jours afin de prendre des décisions autonomes : prendre mon propre appartement, avoir mon propre espace, ne pas dépendre des autres, être plus indépendant, lancer des projets quand j'en ai envie, travailler quand je veux, me lever à l'heure que je veux. La guerre aujourd'hui n'est plus une guerre de tranchées, c'est une guerre économique que se livrent tous les individus entre eux par la compétition, avec aussi une forme de compétition sexuelle, et l'argent est une des seules choses qui font aujourd'hui gagner cette guerre. J'ai envie de progresser dans la vie, et c'est normal à 25 ans. » (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> - Règle (25 October 2026) : devant tout choix (quoi faire maintenant, quel chantier, quelle fonctionnalité, quel outil), la première question est « qu'est-ce qui rapproche le plus vite d'une rentrée d'argent ou d'un paiement ? ». Ce qui y mène passe devant ; ce qui n'y mène pas attend ou se dit comme tel, en une phrase, sans être refusé. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> - Ordre de la journée (25 October 2026) : prospection (mails aux studios, relances, offres) d'abord, production ensuite, facturation et paiement enfin. La production sans destinataire qui paie ne passe plus en tête. Mise en œuvre : `zenray-calendar-plan`, section du 25 October 2026, et `zenray-sales` pour la vente. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> - Ce que cela ne change pas (25 October 2026) : l'ambition du jeu, le sport, le japonais, les œuvres culturelles et le repos restent ; seul l'ordre de priorité des actions change, jusqu'à ce que l'argent rentre. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> - Section déplacée du noyau CLAUDE.md le 25 October 2026 pour tenir sous 65 536 octets, texte intact ci-dessous. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> ``` (25 October 2026, 16:35:06 +0100)
+>
+> Juste en dessous suit, telle quelle, la section « Basculer la question en opportunité de revenu ». (25 October 2026, 16:35:06 +0100)
+>
+> **3. [/Users/zenray/.claude/skills/zenray-calendar-plan/SKILL.md](/Users/zenray/.claude/skills/zenray-calendar-plan/SKILL.md), ligne 10, en tête du skill :** (25 October 2026, 16:35:06 +0100)
+>
+> ```markdown (25 October 2026, 16:35:06 +0100)
+> ## PRIORITÉ N°1 : l'argent d'abord, prospecter avant de produire (25 October 2026) (25 October 2026, 16:35:06 +0100)
+>
+> - Mots de Matthieu (25 October 2026), condensés : sa seule priorité est de faire tous les choix de manière réfléchie par rapport à l'argent ; passer de « je fais uniquement de la production » à « je prospecte d'abord, je produis ensuite, je suis payé enfin », en renversant le château de cartes des actions de chaque jour. Texte intégral : `/Users/zenray/.claude/rules/CardinalValues1.md`, section du 25 October 2026 ; noyau en tête de `/Users/zenray/.claude/CLAUDE.md`. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> - Règle de placement (25 October 2026) : toute journée de travail commence par le bloc de prospection (mails aux studios, relances, réponses, offres), avant tout chantier ; la production vient ensuite, de préférence celle qui sert un client ou une offre en cours ; un bloc « Facturer, relancer les paiements » se place dès qu'une mission est livrée ou qu'une facture attend. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> - Arbitrage (25 October 2026) : quand deux tâches se disputent un trou, celle qui rapproche d'une rentrée d'argent passe devant ; une tâche sans lien avec l'argent n'est pas refusée, elle se place après et se dit comme telle. Sport, repas, japonais, œuvres et jours de repos restent intacts. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> ``` (25 October 2026, 16:35:06 +0100)
+>
+> **4. [/Users/zenray/.claude/skills/claude-md-global/SKILL.md](/Users/zenray/.claude/skills/claude-md-global/SKILL.md), ligne 317, à la fin :** (25 October 2026, 16:35:06 +0100)
+>
+> ```markdown (25 October 2026, 16:35:06 +0100)
+> ## 25 October 2026 : PRIORITÉ N°1, l'argent d'abord, en tête du noyau (25 October 2026, 16:35:06 +0100)
+>
+> - 25 October 2026 : demande de Matthieu, les premières lignes de `/Users/zenray/.claude/CLAUDE.md` portent désormais la PRIORITÉ N°1 : tout choix et toute session se pèsent d'abord à ce qu'ils rapprochent d'une rentrée d'argent ou d'un paiement ; ordre prospecter, produire, être payé. Texte intégral et ses mots : `/Users/zenray/.claude/rules/CardinalValues1.md`, section du 25 October 2026 ; mise en œuvre dans les journées : skill `zenray-calendar-plan`, section du même jour. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> - 25 October 2026 : pour tenir sous 65 536 octets, deux sections ont quitté le noyau, texte intact : « Basculer la question en opportunité de revenu » vers `rules/CardinalValues1.md` et l'index Karpathy vers `rules/Toolbox1.md`, chacune remplacée par un pointeur daté. `extract-rules.mjs --verify` : vert, 383 octets de marge. Sauvegarde avant modification : `/Users/zenray/.claude/tmp/CLAUDE.md.bak-25-October-2026`. (25 October 2026) (25 October 2026, 16:35:06 +0100)
+> ``` (25 October 2026, 16:35:06 +0100)
+>
+> Le journal `/Users/zenray/.claude/PROGRESS.md` a aussi reçu une entrée qui résume tout cela. (25 October 2026, 16:35:06 +0100)
