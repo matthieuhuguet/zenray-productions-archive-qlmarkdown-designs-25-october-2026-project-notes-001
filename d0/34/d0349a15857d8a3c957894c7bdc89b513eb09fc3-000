@@ -1,0 +1,70 @@
+# Resume qlmarkdown-designs-25-october-2026 (28 October 2026 at 20:53)
+
+- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (28 October 2026 at 20:53)
+- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/qlmarkdown-designs-25-october-2026/Rules.md) (1 rules). (28 October 2026 at 20:53)
+- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/qlmarkdown-designs-25-october-2026/FEEDBACK.md), 38 entries, last Iteration at 25 October 2026, 16:35:06 +0100. (28 October 2026 at 20:53)
+
+## Latest conversations (28 October 2026 at 20:53)
+
+- LATEST claude:49b7cc73-992e-4b7f-a693-9e6a0cda48b3, « zenray argent », last activity 26 October 2026 at 10:50 Paris (from transcript). Original: `node scripts/Assets/ConversationDigest.mjs claude:49b7cc73-992e-4b7f-a693-9e6a0cda48b3 --out <file.md>`. (28 October 2026 at 20:53)
+
+## Last 6 prompts of Matthieu, oldest first (28 October 2026 at 20:53)
+
+### 25 October 2026, 14:55:56 +0100 · Prompt · manual
+
+> Demande (25 October 2026) : trois designs pour QLMarkdown (MarkdownQL Extension), titres GT Sectra, à partir de l'existant, modifiables. Livré : /Users/zenray/.claude/tmp/tmp-qlmarkdown-designs-25-october-2026/index.html ; thèmes ZenRay-A/B/C installés dans QLMarkdown, non activés (actif : Claude2.css).
+
+### 25 October 2026, 15:00:04 +0100 · Prompt · claude:49b7cc73
+
+> QLMarkdown B (Papier éditorial) : baseSize=18 parfait Tu peux même appliquer ce thème aussi aux articles neutres qui sont générés par Zenray Assets et qui sont générés par Zenray Edit. à l'avenir uniquement pas les articles existant. /zenray-assets /zenray-edit C'est uniquement quelques lignes à changer.
+
+### 25 October 2026, 15:25:33 +0100 · Prompt · claude:49b7cc73
+
+> c'est toujours l'ancien theme via quicklook sur mac ?
+
+### 25 October 2026, 15:25:33 +0100 · Prompt · claude:49b7cc73
+
+> [Image: source: /private/tmp/claude-501/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3/images/1.webp]
+
+### 25 October 2026, 15:25:35 +0100 · Prompt · claude:49b7cc73
+
+> c'est toujours l'ancien theme via quicklook sur mac ?
+> 
+> [Image: source: /private/tmp/claude-501/-Users-zenray--claude-Memory1/49b7cc73-992e-4b7f-a693-9e6a0cda48b3/images/1.webp]
+
+### 25 October 2026, 16:34:25 +0100 · Prompt · claude:49b7cc73
+
+> Je vois pas la section argent. Tu l'as mis où? Et redonne-moi aussi le texte exact que tu as écrit et append.
+
+
+## Last 3 iterations or checkpoints (28 October 2026 at 20:53)
+
+### 25 October 2026, 15:25:47 +0100 · Iteration · claude:49b7cc73
+
+> Le réglage est bon sur le disque, mais l'extension tourne depuis avant le changement et a gardé l'ancien en mémoire. Je la redémarre.
+
+### 25 October 2026, 15:26:06 +0100 · Iteration · claude:49b7cc73
+
+> Oui, c'était encore l'ancien thème. Le réglage était bien enregistré sur le disque (`customCSS = ZenRay-B-Papier.css`), mais l'extension tournait depuis 14:48, avant le changement. Elle lit ses réglages au démarrage et gardait donc `Claude2.css` en mémoire. Je l'ai arrêtée et j'ai remis à zéro Quick Look.
+> 
+> Fermez l'aperçu, puis rouvrez-le avec Espace sur `CardinalValues1.md`. Le titre devrait être en Sectra italique noir, centré, sur fond papier. Je ne l'ai pas vu moi-même, parce que je ne pilote pas votre écran. Si vous voyez à la place un style GitHub, blanc et bleu, l'extension n'arrive pas à lire le fichier du thème : envoyez-moi une capture et je le place autrement.
+> 
+> Pour la suite, `Bui
+> [... 173 more characters in FEEDBACK.md]
+
+### 25 October 2026, 16:35:06 +0100 · Iteration · claude:49b7cc73
+
+> Vous regardiez le haut de `CardinalValues1.md`. J'ai ajouté la section à la fin, comme pour toutes les sections datées : elle commence à la ligne 480 sur 492. Le texte se trouve à quatre endroits.
+> 
+> **1. Ligne 1 de [/Users/zenray/.claude/CLAUDE.md](/Users/zenray/.claude/CLAUDE.md), insérée tout en haut :**
+> 
+> ```markdown
+> **PRIORITÉ N°1, L'ARGENT D'ABORD (25 October 2026).** Tant que l'argent ne rentre pas, chaque choix et chaque session de Claude Code se pèsent d'abord à ce qu'ils rapprochent d'une rentrée d'argent ou d'un paiement, car c'est l'argent qui rendra ensuite la liberté du reste : son appartement, son espace, ses horaires, ses projets, ne dépendre de personne. L'ordre de la journée s
+> [... 6389 more characters in FEEDBACK.md]
+
+
+## Last order of work (28 October 2026 at 20:53)
+
+- None recorded. (28 October 2026 at 20:53)
+
+Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (28 October 2026 at 20:53)
