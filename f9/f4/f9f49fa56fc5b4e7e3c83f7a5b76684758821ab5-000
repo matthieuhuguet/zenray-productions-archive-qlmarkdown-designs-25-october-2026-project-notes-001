@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "qlmarkdown-designs-25-october-2026",
- "scannedAt": "2026-10-29T13:58:14.381Z",
+ "scannedAt": "2026-10-29T18:10:13.487Z",
  "conversations": [
   {
    "projectId": "qlmarkdown-designs-25-october-2026",
@@ -31,25 +31,9 @@
    "provider": "claude",
    "sessionId": "49b7cc73-992e-4b7f-a693-9e6a0cda48b3",
    "title": "zenray argent",
-   "updatedAt": "2026-10-26T09:50:29.756Z",
-   "bytes": 4459002,
+   "updatedAt": "2026-10-29T17:48:38.098Z",
+   "bytes": 38168,
    "boundProject": "qlmarkdown-designs-25-october-2026"
-  },
-  {
-   "projectId": "qlmarkdown-designs-25-october-2026",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T15:52:56.148Z",
-   "last": "2026-10-26T15:52:56.148Z",
-   "strength": "weak",
-   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "provider": "claude",
-   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "title": "zenray meshes",
-   "updatedAt": "2026-10-29T13:57:13.280Z",
-   "bytes": 731231703,
-   "boundProject": "zenray-meshes"
   },
   {
    "projectId": "qlmarkdown-designs-25-october-2026",
@@ -63,9 +47,25 @@
    "provider": "codex",
    "sessionId": "01a183ee-37b7-7c60-a028-d9f9a184591a",
    "title": "Conversation codex 01a183ee",
-   "updatedAt": "2026-10-29T13:31:44.993Z",
-   "bytes": 14469095,
+   "updatedAt": "2026-10-29T17:47:05.373Z",
+   "bytes": 63070128,
    "boundProject": "zenray-edit"
+  },
+  {
+   "projectId": "qlmarkdown-designs-25-october-2026",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-26T15:52:56.148Z",
+   "last": "2026-10-26T15:52:56.148Z",
+   "strength": "weak",
+   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "provider": "claude",
+   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "title": "zenray meshes",
+   "updatedAt": "2026-10-29T17:23:35.495Z",
+   "bytes": 38627,
+   "boundProject": "zenray-meshes"
   }
  ]
 }
