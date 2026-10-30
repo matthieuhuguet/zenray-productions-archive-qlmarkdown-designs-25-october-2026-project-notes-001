@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "qlmarkdown-designs-25-october-2026",
- "scannedAt": "2026-10-30T03:19:13.948Z",
+ "scannedAt": "2026-10-30T09:20:25.034Z",
  "conversations": [
   {
    "projectId": "qlmarkdown-designs-25-october-2026",
@@ -40,6 +40,22 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-26T15:52:56.148Z",
+   "last": "2026-10-26T15:52:56.148Z",
+   "strength": "weak",
+   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "provider": "claude",
+   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "title": "zenray meshes",
+   "updatedAt": "2026-10-30T09:08:53.630Z",
+   "bytes": 38788,
+   "boundProject": "zenray-meshes"
+  },
+  {
+   "projectId": "qlmarkdown-designs-25-october-2026",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-28T19:13:59.849Z",
    "last": "2026-10-28T19:13:59.849Z",
    "strength": "weak",
@@ -50,22 +66,6 @@
    "updatedAt": "2026-10-30T03:11:26.597Z",
    "bytes": 105000546,
    "boundProject": "zenray-edit"
-  },
-  {
-   "projectId": "qlmarkdown-designs-25-october-2026",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T15:52:56.148Z",
-   "last": "2026-10-26T15:52:56.148Z",
-   "strength": "weak",
-   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "provider": "claude",
-   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "title": "zenray meshes",
-   "updatedAt": "2026-10-30T03:09:51.409Z",
-   "bytes": 804962303,
-   "boundProject": "zenray-meshes"
   }
  ]
 }
