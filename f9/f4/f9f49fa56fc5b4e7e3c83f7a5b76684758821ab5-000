@@ -1,24 +1,8 @@
 {
  "schemaVersion": 1,
  "projectId": "qlmarkdown-designs-25-october-2026",
- "scannedAt": "2026-11-04T18:18:23.296Z",
+ "scannedAt": "2026-11-05T17:20:55.325Z",
  "conversations": [
-  {
-   "projectId": "qlmarkdown-designs-25-october-2026",
-   "lines": 11,
-   "work": 4,
-   "prompts": 0,
-   "first": "2026-10-28T19:52:42.731Z",
-   "last": "2026-10-28T19:53:43.504Z",
-   "strength": "strong",
-   "conversationId": "codex:01a18412-51ca-7bc3-8d23-d42e332c1bf9",
-   "provider": "codex",
-   "sessionId": "01a18412-51ca-7bc3-8d23-d42e332c1bf9",
-   "title": "Conversation codex 01a18412",
-   "updatedAt": "2026-10-28T19:53:44.541Z",
-   "bytes": 2522605,
-   "boundProject": "qlmarkdown-designs-25-october-2026"
-  },
   {
    "projectId": "qlmarkdown-designs-25-october-2026",
    "lines": 52,
@@ -62,9 +46,9 @@
    "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "title": "zenray meshes",
-   "updatedAt": "2026-11-02T21:58:50.087Z",
-   "bytes": 44969,
+   "title": "zenray meshes dragon sculpt",
+   "updatedAt": "2026-11-05T15:38:15.829Z",
+   "bytes": 58286,
    "boundProject": "zenray-meshes"
   },
   {
@@ -82,6 +66,22 @@
    "updatedAt": "2026-10-31T06:22:27.936Z",
    "bytes": 130681305,
    "boundProject": "zenray-edit"
+  },
+  {
+   "projectId": "qlmarkdown-designs-25-october-2026",
+   "strength": "bound",
+   "lines": 0,
+   "work": 0,
+   "prompts": 0,
+   "first": null,
+   "last": null,
+   "conversationId": "codex:01a18412-51ca-7bc3-8d23-d42e332c1bf9",
+   "provider": "codex",
+   "sessionId": "01a18412-51ca-7bc3-8d23-d42e332c1bf9",
+   "title": "01a18412-51ca-7bc3-8d23-d42e332c1bf9",
+   "updatedAt": null,
+   "bytes": 0,
+   "boundProject": "qlmarkdown-designs-25-october-2026"
   }
  ]
 }
